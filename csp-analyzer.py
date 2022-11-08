@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# I don't believe in license.
+# You can do whatever you want with this program.
+
 import sys
 import requests
 import urllib.parse
