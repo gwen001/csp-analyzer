@@ -24,3 +24,7 @@ $ python3 csp-analyzer.py <url> [<cookies>]
 
 <img src="https://raw.githubusercontent.com/gwen001/csp-analyzer/main/preview.png" />
 
+---
+
+Feel free to [open an issue](/../../issues/) if you have any problem with the script.  
+
