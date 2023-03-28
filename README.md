@@ -16,6 +16,11 @@
 
 ---
 
+## Description
+
+This Python tool displays the Content-Security-Policy header of a given URL in a pretty way.
+The colors show the "severity" of the potential issue.
+
 ## Install
 
 ```
