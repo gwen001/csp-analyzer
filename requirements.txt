@@ -1,3 +1,4 @@
 requests
 colored
 urllib3
+tldextract
